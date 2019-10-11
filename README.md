@@ -6,4 +6,4 @@ This git repo is for the ICCV 2019 Tutorial ["Global Optimization for Geometric 
 Authors: [Heng Yang](http://hankyang.mit.edu), Siyi Hu, [Luca Carlone](https://lucacarlone.mit.edu)
 
 
-## References:
+## References
