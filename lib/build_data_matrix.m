@@ -1,4 +1,4 @@
-function R_tilde = build_R_tilde(edges,nrNodes,d)
+function R_tilde = build_data_matrix(edges,nrNodes,d)
 % given edge measurements, nrNodes and d, build the matrix R_tilde
 
 m = size(edges,1); % nr of measurements
