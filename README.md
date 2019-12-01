@@ -5,7 +5,7 @@ This git repo is for the ICCV 2019 Tutorial ["Global Optimization for Geometric 
 
 Authors: [Heng Yang](http://hankyang.mit.edu), Siyi Hu, [Luca Carlone](https://lucacarlone.mit.edu)
 
-Acknowledgement: We would like to thank David Rosen for the Matlab implementation of [SE-Sync](https://github.com/david-m-rosen/SE-Sync).
+Acknowledgement: The tutorial uses the [SE-Sync](https://github.com/david-m-rosen/SE-Sync) implementation by David Rosen.
 
 ## Prerequisites
 * CVX: Please [download CVX](http://cvxr.com/cvx/download/) according to your OS and put the "cvx" folder at the same folder level as this "GlobalOptimizationTutorial" folder (e.g. "path/Matlab/cvx" and "path/Matlab/GlobalOptimizationTutorial"), and then go inside the "cvx" folder from Matlab console and run `cvx_setup`.
